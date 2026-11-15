@@ -1,3 +1,29 @@
+# pentagi
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+能执行复杂渗透测试任务的全自主 AI Agent 系统。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # PentAGI
 
 <div align="center" style="font-size: 1.5em; margin: 20px 0;">
